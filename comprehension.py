@@ -9,7 +9,7 @@
 #
 # dict = {x:x*x for x in range (5)}
 # print(dict)
-#
+# #
 # tuple =(x*x for x in range (5))
 # print(tuple)
 # for x in tuple:
@@ -23,7 +23,7 @@
 # d = 80
 # z = a,b,c,d
 # print(z)
-#
+# unpacking
 # x,y,w,k=z
 # print("x=",x,"y=",y,"w=",w,"k=",k)
 
