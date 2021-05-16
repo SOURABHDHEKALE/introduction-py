@@ -59,10 +59,10 @@
 # print(result)
 #
 # # substraction
-# def abc(x,y):
-#     return (x-y)
-# result=abc(40,10)
-# print(result)
+def abc(x,y):
+    return (x-y)
+result=abc(40,10)
+print(result)
 #
 # #multipication
 # def abc(x,y):
@@ -78,18 +78,18 @@
 
 
 # GLOBALE VARIABALE
-
-a = 50
-b = 60
-def add():
-    print(a+b)
-add()
-def sub():
-    print(a-b)
-sub()
-def mul():
-    print(a*b)
-mul()
-def div():
-    print(a/b)
-div()
+#
+# a = 50
+# b = 60
+# def add():
+#     print(a+b)
+# add()
+# def sub():
+#     print(a-b)
+# sub()
+# def mul():
+#     print(a*b)
+# mul()
+# def div():
+#     print(a/b)
+# div()
